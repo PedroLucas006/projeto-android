@@ -28,6 +28,7 @@ html, body {
 }
 body {
   background-color: var(--cor0);
+  font-family: var(--fonte-padrao);
 }
 header {
   min-height: 150px;
